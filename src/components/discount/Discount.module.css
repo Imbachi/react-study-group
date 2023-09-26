@@ -1,0 +1,25 @@
+.discount {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  background-color: rgb(202, 20, 20);
+  right: 20px;
+  top: 30px;
+  height: 40px;
+  width: 80px;
+  padding-left: 10px;
+  color: white;
+}
+
+.discountDarkMode {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  background-color: rgb(202, 20, 20);
+  right: 20px;
+  top: 30px;
+  height: 40px;
+  width: 80px;
+  padding-left: 10px;
+  color: #1f1a24;
+}

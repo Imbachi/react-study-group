@@ -1,0 +1,27 @@
+button {
+  color: white;
+  padding: 5px 10px;
+  height: auto;
+  border-radius: 5px;
+}
+
+.infoButton {
+  background-color: hsl(137, 94%, 31%);
+}
+
+.deleteButton {
+  background-color: hsl(2, 91%, 61%);
+}
+
+.buttonsWrapper {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+}
+
+.wrapper {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
